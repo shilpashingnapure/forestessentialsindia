@@ -263,6 +263,6 @@ body{
         margin: auto;
     }
     #copy_right img{
-        width: 350px;
+        width: 100%;
     }
 }
